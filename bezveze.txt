@@ -3,7 +3,14 @@ ble
 blii branch
 još promejne u novoj grnai
 
+
 tekst nakon mergeanja
 
 tekst nakon branch promjena2->prvi red
-još teksta->drugi red
+
+
+tekst u masteruuuu
+i ovo
+
+i još ovooo
+
