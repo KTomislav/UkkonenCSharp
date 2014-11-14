@@ -1,0 +1,1 @@
+﻿1. Ako mi je active edge null, da li to nužno znači da je active node root?

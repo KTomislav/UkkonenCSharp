@@ -1,0 +1,9 @@
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\bin\Debug\UkkonenSuffixTree.exe.config
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.csprojResolveAssemblyReference.cache
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.Form1.resources
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.Properties.Resources.resources
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.csproj.GenerateResource.Cache
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\bin\Debug\UkkonenSuffixTree.exe
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\bin\Debug\UkkonenSuffixTree.pdb
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.exe
+c:\users\tomislav\documents\visual studio 2012\Projects\UkkonenSuffixTree\UkkonenSuffixTree\obj\Debug\UkkonenSuffixTree.pdb
