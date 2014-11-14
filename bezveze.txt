@@ -14,3 +14,4 @@ i ovo
 
 i još ovooo
 
+nakon merganja promejen2 u master
